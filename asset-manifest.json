@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/solcityweb/static/css/main.dcceaca9.chunk.css",
-    "main.js": "/solcityweb/static/js/main.04c5a454.chunk.js",
-    "main.js.map": "/solcityweb/static/js/main.04c5a454.chunk.js.map",
+    "main.js": "/solcityweb/static/js/main.c50c6595.chunk.js",
+    "main.js.map": "/solcityweb/static/js/main.c50c6595.chunk.js.map",
     "runtime-main.js": "/solcityweb/static/js/runtime-main.03864c30.js",
     "runtime-main.js.map": "/solcityweb/static/js/runtime-main.03864c30.js.map",
-    "static/js/2.e16d0ec7.chunk.js": "/solcityweb/static/js/2.e16d0ec7.chunk.js",
-    "static/js/2.e16d0ec7.chunk.js.map": "/solcityweb/static/js/2.e16d0ec7.chunk.js.map",
+    "static/js/2.e68109a0.chunk.js": "/solcityweb/static/js/2.e68109a0.chunk.js",
+    "static/js/2.e68109a0.chunk.js.map": "/solcityweb/static/js/2.e68109a0.chunk.js.map",
     "static/js/3.af9acf87.chunk.js": "/solcityweb/static/js/3.af9acf87.chunk.js",
     "static/js/3.af9acf87.chunk.js.map": "/solcityweb/static/js/3.af9acf87.chunk.js.map",
     "index.html": "/solcityweb/index.html",
     "static/css/main.dcceaca9.chunk.css.map": "/solcityweb/static/css/main.dcceaca9.chunk.css.map",
-    "static/js/2.e16d0ec7.chunk.js.LICENSE.txt": "/solcityweb/static/js/2.e16d0ec7.chunk.js.LICENSE.txt",
+    "static/js/2.e68109a0.chunk.js.LICENSE.txt": "/solcityweb/static/js/2.e68109a0.chunk.js.LICENSE.txt",
     "static/media/MobileTeam.88c13011.png": "/solcityweb/static/media/MobileTeam.88c13011.png",
     "static/media/barFade.5ea4c7ff.png": "/solcityweb/static/media/barFade.5ea4c7ff.png",
     "static/media/bottomFade.3b859a6e.png": "/solcityweb/static/media/bottomFade.3b859a6e.png",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.03864c30.js",
-    "static/js/2.e16d0ec7.chunk.js",
+    "static/js/2.e68109a0.chunk.js",
     "static/css/main.dcceaca9.chunk.css",
-    "static/js/main.04c5a454.chunk.js"
+    "static/js/main.c50c6595.chunk.js"
   ]
 }
