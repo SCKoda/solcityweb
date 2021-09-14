@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/solcityweb/static/css/main.dcceaca9.chunk.css",
-    "main.js": "/solcityweb/static/js/main.c50c6595.chunk.js",
-    "main.js.map": "/solcityweb/static/js/main.c50c6595.chunk.js.map",
+    "main.js": "/solcityweb/static/js/main.cd5fbeac.chunk.js",
+    "main.js.map": "/solcityweb/static/js/main.cd5fbeac.chunk.js.map",
     "runtime-main.js": "/solcityweb/static/js/runtime-main.03864c30.js",
     "runtime-main.js.map": "/solcityweb/static/js/runtime-main.03864c30.js.map",
     "static/js/2.e68109a0.chunk.js": "/solcityweb/static/js/2.e68109a0.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.03864c30.js",
     "static/js/2.e68109a0.chunk.js",
     "static/css/main.dcceaca9.chunk.css",
-    "static/js/main.c50c6595.chunk.js"
+    "static/js/main.cd5fbeac.chunk.js"
   ]
 }
